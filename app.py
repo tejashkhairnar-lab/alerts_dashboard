@@ -3,6 +3,11 @@ import pandas as pd
 import os
 from st_aggrid import AgGrid, GridOptionsBuilder, GridUpdateMode
 
+
+# Compatibility fix for pandas >= 2.0
+if not hasattr(pd.Series, "iteritems"):
+    pd.Series.iteritems = pd.Series.items
+
 st.set_page_config(page_title="Alerts Dashboard", layout="wide")
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
