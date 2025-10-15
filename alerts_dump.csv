@@ -1,0 +1,201 @@
+Borrower Id,Borrower Name,Signal Code,Signal Name,Product Type,Alert Id,Date Of Event,Date Of Alert,Alert Severity,Cibil Score
+CUST916471,Vikas Reddy,110,Disbursement of loan done without meeting all pre-disbursement conditions,HL - retail,ALERT001,2025-07-04,2025-07-05,Low,723
+CUST644813,BluePeak Constructions Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT002,2025-08-29,2025-08-30,Medium,689
+CUST197430,Everest Realty Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT003,2025-06-13,2025-06-14,Low,733
+CUST329832,Omkar Housing Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT004,2025-07-18,2025-07-19,High,603
+CUST329832,Omkar Housing Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT005,2025-06-13,2025-06-14,Low,713
+CUST677836,Pooja Mehta,736,Accounts where NACH/PDC bounces for 3 or more occasions in previous 12 months and EMIs are serviced in cash,HL - retail,ALERT006,2025-08-01,2025-08-02,Low,721
+CUST859940,Neha Patel,678,Accounts involving cash payment of processing charge/EMIs (where electronic payment from Savings bank account not established),HL - retail,ALERT007,2025-07-25,2025-07-26,Low,714
+CUST916471,Vikas Reddy,812,Abrupt fall in market price (per square feet rate) of property or guidance value in an area,HL - retail,ALERT008,2025-08-22,2025-08-23,Medium,651
+CUST128927,Amit Sharma,736,Accounts where NACH/PDC bounces for 3 or more occasions in previous 12 months and EMIs are serviced in cash,HL - retail,ALERT009,2025-07-25,2025-07-26,Low,700
+CUST722919,Ravi Iyer,736,Accounts where NACH/PDC bounces for 3 or more occasions in previous 12 months and EMIs are serviced in cash,HL - retail,ALERT010,2025-06-27,2025-06-28,Medium,683
+CUST731486,Kiran Das,342,Construction of the house not proceeding as per the disbursement schedule,HL - retail,ALERT011,2025-08-01,2025-08-02,Medium,690
+CUST644813,BluePeak Constructions Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT012,2025-08-08,2025-08-09,Low,700
+CUST417187,Meera Joshi,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,HL - retail,ALERT013,2025-06-27,2025-06-28,Low,716
+CUST644813,BluePeak Constructions Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT014,2025-06-20,2025-06-21,High,595
+CUST329832,Omkar Housing Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT015,2025-07-04,2025-07-05,Low,719
+CUST916471,Vikas Reddy,342,Construction of the house not proceeding as per the disbursement schedule,HL - retail,ALERT016,2025-05-02,2025-05-03,Low,701
+CUST859940,Neha Patel,110,Disbursement of loan done without meeting all pre-disbursement conditions,HL - retail,ALERT017,2025-07-04,2025-07-05,Low,732
+CUST417187,Meera Joshi,678,Accounts involving cash payment of processing charge/EMIs (where electronic payment from Savings bank account not established),HL - retail,ALERT018,2025-05-16,2025-05-17,Low,735
+CUST722919,Ravi Iyer,812,Abrupt fall in market price (per square feet rate) of property or guidance value in an area,HL - retail,ALERT019,2025-06-13,2025-06-14,Low,709
+CUST374112,Sneha Nair,342,Construction of the house not proceeding as per the disbursement schedule,HL - retail,ALERT020,2025-05-16,2025-05-17,Low,720
+CUST157781,Suresh Rao,678,Accounts involving cash payment of processing charge/EMIs (where electronic payment from Savings bank account not established),HL - retail,ALERT021,2025-04-25,2025-04-26,Medium,665
+CUST940996,Arjun Verma,342,Construction of the house not proceeding as per the disbursement schedule,HL - retail,ALERT022,2025-08-29,2025-08-30,Medium,651
+CUST157781,Suresh Rao,412,Company is unable to contact the borrower during credit monitoring,HL - retail,ALERT023,2025-08-29,2025-08-30,Medium,661
+CUST677836,Pooja Mehta,523,Construction of house not commenced even after 18 months in case of composite loans,HL - retail,ALERT024,2025-07-18,2025-07-19,Medium,666
+CUST374112,Sneha Nair,342,Construction of the house not proceeding as per the disbursement schedule,HL - retail,ALERT025,2025-07-04,2025-07-05,Low,733
+CUST128927,Amit Sharma,342,Construction of the house not proceeding as per the disbursement schedule,HL - retail,ALERT026,2025-06-06,2025-06-07,High,486
+CUST859940,Neha Patel,678,Accounts involving cash payment of processing charge/EMIs (where electronic payment from Savings bank account not established),HL - retail,ALERT027,2025-04-18,2025-04-19,Low,709
+CUST940996,Arjun Verma,678,Accounts involving cash payment of processing charge/EMIs (where electronic payment from Savings bank account not established),HL - retail,ALERT028,2025-05-09,2025-05-10,Low,737
+CUST329832,Omkar Housing Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT029,2025-06-20,2025-06-21,Low,737
+CUST157781,Suresh Rao,678,Accounts involving cash payment of processing charge/EMIs (where electronic payment from Savings bank account not established),HL - retail,ALERT030,2025-07-25,2025-07-26,Low,725
+CUST731486,Kiran Das,736,Accounts where NACH/PDC bounces for 3 or more occasions in previous 12 months and EMIs are serviced in cash,HL - retail,ALERT031,2025-08-22,2025-08-23,Low,727
+CUST859940,Neha Patel,412,Company is unable to contact the borrower during credit monitoring,HL - retail,ALERT032,2025-08-15,2025-08-16,Low,738
+CUST644813,BluePeak Constructions Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT033,2025-08-01,2025-08-02,Medium,660
+CUST940996,Arjun Verma,412,Company is unable to contact the borrower during credit monitoring,HL - retail,ALERT034,2025-07-25,2025-07-26,Low,741
+CUST197430,Everest Realty Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT035,2025-05-16,2025-05-17,Low,720
+CUST916471,Vikas Reddy,736,Accounts where NACH/PDC bounces for 3 or more occasions in previous 12 months and EMIs are serviced in cash,HL - retail,ALERT036,2025-04-18,2025-04-19,Medium,673
+CUST157781,Suresh Rao,523,Construction of house not commenced even after 18 months in case of composite loans,HL - retail,ALERT037,2025-08-29,2025-08-30,Low,737
+CUST197430,Everest Realty Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT038,2025-08-22,2025-08-23,Low,725
+CUST329832,Omkar Housing Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT039,2025-07-25,2025-07-26,High,647
+CUST157781,Suresh Rao,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,HL - retail,ALERT040,2025-08-22,2025-08-23,High,474
+CUST197430,Everest Realty Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT041,2025-07-11,2025-07-12,Low,743
+CUST329832,Omkar Housing Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT042,2025-08-15,2025-08-16,Medium,685
+CUST916471,Vikas Reddy,110,Disbursement of loan done without meeting all pre-disbursement conditions,HL - retail,ALERT043,2025-06-20,2025-06-21,Low,709
+CUST644813,BluePeak Constructions Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT044,2025-06-20,2025-06-21,Low,707
+CUST859940,Neha Patel,812,Abrupt fall in market price (per square feet rate) of property or guidance value in an area,HL - retail,ALERT045,2025-05-23,2025-05-24,High,478
+CUST859940,Neha Patel,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,HL - retail,ALERT046,2025-08-08,2025-08-09,Medium,658
+CUST157781,Suresh Rao,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,HL - retail,ALERT047,2025-04-18,2025-04-19,Low,727
+CUST916471,Vikas Reddy,412,Company is unable to contact the borrower during credit monitoring,HL - retail,ALERT048,2025-05-16,2025-05-17,Medium,670
+CUST197430,Everest Realty Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT049,2025-07-04,2025-07-05,High,518
+CUST197430,Everest Realty Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT050,2025-08-08,2025-08-09,Low,724
+CUST417187,Meera Joshi,523,Construction of house not commenced even after 18 months in case of composite loans,HL - retail,ALERT051,2025-06-06,2025-06-07,Medium,692
+CUST329832,Omkar Housing Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT052,2025-08-22,2025-08-23,Medium,651
+CUST197430,Everest Realty Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT053,2025-07-18,2025-07-19,Medium,683
+CUST859940,Neha Patel,812,Abrupt fall in market price (per square feet rate) of property or guidance value in an area,HL - retail,ALERT054,2025-05-30,2025-05-31,Medium,699
+CUST374112,Sneha Nair,812,Abrupt fall in market price (per square feet rate) of property or guidance value in an area,HL - retail,ALERT055,2025-06-13,2025-06-14,Medium,688
+CUST310917,NovaBuild Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT056,2025-08-15,2025-08-16,Low,746
+CUST731486,Kiran Das,736,Accounts where NACH/PDC bounces for 3 or more occasions in previous 12 months and EMIs are serviced in cash,HL - retail,ALERT057,2025-06-13,2025-06-14,High,559
+CUST940996,Arjun Verma,812,Abrupt fall in market price (per square feet rate) of property or guidance value in an area,HL - retail,ALERT058,2025-07-18,2025-07-19,Low,713
+CUST128927,Amit Sharma,110,Disbursement of loan done without meeting all pre-disbursement conditions,HL - retail,ALERT059,2025-08-15,2025-08-16,Medium,697
+CUST417187,Meera Joshi,412,Company is unable to contact the borrower during credit monitoring,HL - retail,ALERT060,2025-08-22,2025-08-23,Medium,658
+CUST916471,Vikas Reddy,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,HL - retail,ALERT061,2025-08-22,2025-08-23,Low,734
+CUST731486,Kiran Das,812,Abrupt fall in market price (per square feet rate) of property or guidance value in an area,HL - retail,ALERT062,2025-06-27,2025-06-28,Low,710
+CUST374112,Sneha Nair,736,Accounts where NACH/PDC bounces for 3 or more occasions in previous 12 months and EMIs are serviced in cash,HL - retail,ALERT063,2025-08-22,2025-08-23,High,385
+CUST644813,BluePeak Constructions Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT064,2025-05-23,2025-05-24,Medium,669
+CUST859940,Neha Patel,342,Construction of the house not proceeding as per the disbursement schedule,HL - retail,ALERT065,2025-07-18,2025-07-19,Low,743
+CUST644813,BluePeak Constructions Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT066,2025-06-06,2025-06-07,Low,729
+CUST197430,Everest Realty Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT067,2025-06-06,2025-06-07,Low,737
+CUST859940,Neha Patel,523,Construction of house not commenced even after 18 months in case of composite loans,HL - retail,ALERT068,2025-08-01,2025-08-02,Low,738
+CUST722919,Ravi Iyer,110,Disbursement of loan done without meeting all pre-disbursement conditions,HL - retail,ALERT069,2025-08-01,2025-08-02,Low,723
+CUST157781,Suresh Rao,736,Accounts where NACH/PDC bounces for 3 or more occasions in previous 12 months and EMIs are serviced in cash,HL - retail,ALERT070,2025-05-02,2025-05-03,Medium,694
+CUST417187,Meera Joshi,412,Company is unable to contact the borrower during credit monitoring,HL - retail,ALERT071,2025-07-11,2025-07-12,Low,738
+CUST374112,Sneha Nair,342,Construction of the house not proceeding as per the disbursement schedule,HL - retail,ALERT072,2025-07-04,2025-07-05,Low,748
+CUST859940,Neha Patel,736,Accounts where NACH/PDC bounces for 3 or more occasions in previous 12 months and EMIs are serviced in cash,HL - retail,ALERT073,2025-07-25,2025-07-26,High,483
+CUST859940,Neha Patel,110,Disbursement of loan done without meeting all pre-disbursement conditions,HL - retail,ALERT074,2025-08-15,2025-08-16,Low,724
+CUST859940,Neha Patel,412,Company is unable to contact the borrower during credit monitoring,HL - retail,ALERT075,2025-07-11,2025-07-12,High,451
+CUST731486,Kiran Das,523,Construction of house not commenced even after 18 months in case of composite loans,HL - retail,ALERT076,2025-06-27,2025-06-28,High,571
+CUST644813,BluePeak Constructions Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT077,2025-06-27,2025-06-28,Low,714
+CUST940996,Arjun Verma,342,Construction of the house not proceeding as per the disbursement schedule,HL - retail,ALERT078,2025-04-18,2025-04-19,Low,724
+CUST128927,Amit Sharma,736,Accounts where NACH/PDC bounces for 3 or more occasions in previous 12 months and EMIs are serviced in cash,HL - retail,ALERT079,2025-05-09,2025-05-10,Low,733
+CUST677836,Pooja Mehta,736,Accounts where NACH/PDC bounces for 3 or more occasions in previous 12 months and EMIs are serviced in cash,HL - retail,ALERT080,2025-08-15,2025-08-16,Low,701
+CUST417187,Meera Joshi,342,Construction of the house not proceeding as per the disbursement schedule,HL - retail,ALERT081,2025-07-25,2025-07-26,Low,729
+CUST940996,Arjun Verma,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,HL - retail,ALERT082,2025-05-09,2025-05-10,Medium,678
+CUST940996,Arjun Verma,736,Accounts where NACH/PDC bounces for 3 or more occasions in previous 12 months and EMIs are serviced in cash,HL - retail,ALERT083,2025-07-11,2025-07-12,Low,742
+CUST320277,Silverline Infra Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT084,2025-07-11,2025-07-12,Low,745
+CUST329832,Omkar Housing Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT085,2025-07-11,2025-07-12,Medium,687
+CUST197430,Everest Realty Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT086,2025-08-08,2025-08-09,Low,725
+CUST940996,Arjun Verma,736,Accounts where NACH/PDC bounces for 3 or more occasions in previous 12 months and EMIs are serviced in cash,HL - retail,ALERT087,2025-06-13,2025-06-14,Medium,681
+CUST644813,BluePeak Constructions Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT088,2025-07-11,2025-07-12,Low,713
+CUST859940,Neha Patel,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,HL - retail,ALERT089,2025-08-01,2025-08-02,Low,736
+CUST310917,NovaBuild Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT090,2025-07-04,2025-07-05,Low,700
+CUST320277,Silverline Infra Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT091,2025-05-23,2025-05-24,Medium,690
+CUST859940,Neha Patel,412,Company is unable to contact the borrower during credit monitoring,HL - retail,ALERT092,2025-05-23,2025-05-24,Low,747
+CUST320277,Silverline Infra Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT093,2025-05-30,2025-05-31,Low,731
+CUST940996,Arjun Verma,110,Disbursement of loan done without meeting all pre-disbursement conditions,HL - retail,ALERT094,2025-07-18,2025-07-19,Low,710
+CUST731486,Kiran Das,678,Accounts involving cash payment of processing charge/EMIs (where electronic payment from Savings bank account not established),HL - retail,ALERT095,2025-05-09,2025-05-10,Low,716
+CUST310917,NovaBuild Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT096,2025-05-09,2025-05-10,High,466
+CUST320277,Silverline Infra Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT097,2025-08-15,2025-08-16,Medium,694
+CUST374112,Sneha Nair,812,Abrupt fall in market price (per square feet rate) of property or guidance value in an area,HL - retail,ALERT098,2025-08-29,2025-08-30,Low,722
+CUST677836,Pooja Mehta,736,Accounts where NACH/PDC bounces for 3 or more occasions in previous 12 months and EMIs are serviced in cash,HL - retail,ALERT099,2025-07-18,2025-07-19,High,458
+CUST916471,Vikas Reddy,342,Construction of the house not proceeding as per the disbursement schedule,HL - retail,ALERT100,2025-08-01,2025-08-02,Low,723
+CUST940996,Arjun Verma,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,HL - retail,ALERT101,2025-06-13,2025-06-14,Low,738
+CUST859940,Neha Patel,342,Construction of the house not proceeding as per the disbursement schedule,HL - retail,ALERT102,2025-05-23,2025-05-24,Low,724
+CUST417187,Meera Joshi,678,Accounts involving cash payment of processing charge/EMIs (where electronic payment from Savings bank account not established),HL - retail,ALERT103,2025-06-27,2025-06-28,High,494
+CUST916471,Vikas Reddy,110,Disbursement of loan done without meeting all pre-disbursement conditions,HL - retail,ALERT104,2025-06-27,2025-06-28,Medium,657
+CUST197430,Everest Realty Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT105,2025-08-15,2025-08-16,Low,727
+CUST677836,Pooja Mehta,523,Construction of house not commenced even after 18 months in case of composite loans,HL - retail,ALERT106,2025-06-06,2025-06-07,Low,707
+CUST644813,BluePeak Constructions Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT107,2025-07-04,2025-07-05,Low,747
+CUST310917,NovaBuild Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT108,2025-06-20,2025-06-21,Low,708
+CUST128927,Amit Sharma,678,Accounts involving cash payment of processing charge/EMIs (where electronic payment from Savings bank account not established),HL - retail,ALERT109,2025-06-06,2025-06-07,Low,715
+CUST197430,Everest Realty Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT110,2025-05-09,2025-05-10,Medium,670
+CUST644813,BluePeak Constructions Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT111,2025-07-11,2025-07-12,High,492
+CUST157781,Suresh Rao,523,Construction of house not commenced even after 18 months in case of composite loans,HL - retail,ALERT112,2025-08-01,2025-08-02,Medium,660
+CUST731486,Kiran Das,342,Construction of the house not proceeding as per the disbursement schedule,HL - retail,ALERT113,2025-06-06,2025-06-07,Medium,661
+CUST731486,Kiran Das,736,Accounts where NACH/PDC bounces for 3 or more occasions in previous 12 months and EMIs are serviced in cash,HL - retail,ALERT114,2025-08-08,2025-08-09,Low,703
+CUST722919,Ravi Iyer,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,HL - retail,ALERT115,2025-08-08,2025-08-09,Medium,660
+CUST940996,Arjun Verma,812,Abrupt fall in market price (per square feet rate) of property or guidance value in an area,HL - retail,ALERT116,2025-05-09,2025-05-10,Low,709
+CUST417187,Meera Joshi,412,Company is unable to contact the borrower during credit monitoring,HL - retail,ALERT117,2025-05-09,2025-05-10,Medium,690
+CUST859940,Neha Patel,812,Abrupt fall in market price (per square feet rate) of property or guidance value in an area,HL - retail,ALERT118,2025-04-18,2025-04-19,Medium,652
+CUST197430,Everest Realty Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT119,2025-05-30,2025-05-31,High,436
+CUST859940,Neha Patel,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,HL - retail,ALERT120,2025-08-22,2025-08-23,Medium,650
+CUST859940,Neha Patel,812,Abrupt fall in market price (per square feet rate) of property or guidance value in an area,HL - retail,ALERT121,2025-07-04,2025-07-05,Low,738
+CUST859940,Neha Patel,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,HL - retail,ALERT122,2025-05-30,2025-05-31,Low,724
+CUST310917,NovaBuild Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT123,2025-07-04,2025-07-05,Medium,668
+CUST859940,Neha Patel,736,Accounts where NACH/PDC bounces for 3 or more occasions in previous 12 months and EMIs are serviced in cash,HL - retail,ALERT124,2025-07-04,2025-07-05,Low,717
+CUST722919,Ravi Iyer,678,Accounts involving cash payment of processing charge/EMIs (where electronic payment from Savings bank account not established),HL - retail,ALERT125,2025-08-08,2025-08-09,Low,748
+CUST417187,Meera Joshi,342,Construction of the house not proceeding as per the disbursement schedule,HL - retail,ALERT126,2025-08-29,2025-08-30,Medium,686
+CUST320277,Silverline Infra Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT127,2025-06-06,2025-06-07,Medium,679
+CUST916471,Vikas Reddy,342,Construction of the house not proceeding as per the disbursement schedule,HL - retail,ALERT128,2025-04-18,2025-04-19,Low,745
+CUST157781,Suresh Rao,110,Disbursement of loan done without meeting all pre-disbursement conditions,HL - retail,ALERT129,2025-04-25,2025-04-26,Medium,672
+CUST940996,Arjun Verma,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,HL - retail,ALERT130,2025-07-11,2025-07-12,Medium,678
+CUST940996,Arjun Verma,412,Company is unable to contact the borrower during credit monitoring,HL - retail,ALERT131,2025-05-02,2025-05-03,Low,712
+CUST329832,Omkar Housing Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT132,2025-07-25,2025-07-26,Low,711
+CUST644813,BluePeak Constructions Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT133,2025-08-15,2025-08-16,Low,729
+CUST157781,Suresh Rao,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,HL - retail,ALERT134,2025-08-15,2025-08-16,Low,738
+CUST320277,Silverline Infra Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT135,2025-06-06,2025-06-07,Low,741
+CUST374112,Sneha Nair,523,Construction of house not commenced even after 18 months in case of composite loans,HL - retail,ALERT136,2025-06-27,2025-06-28,Low,728
+CUST329832,Omkar Housing Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT137,2025-07-04,2025-07-05,High,404
+CUST310917,NovaBuild Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT138,2025-05-23,2025-05-24,Medium,658
+CUST310917,NovaBuild Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT139,2025-04-18,2025-04-19,Low,721
+CUST940996,Arjun Verma,110,Disbursement of loan done without meeting all pre-disbursement conditions,HL - retail,ALERT140,2025-06-27,2025-06-28,Low,726
+CUST644813,BluePeak Constructions Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT141,2025-06-06,2025-06-07,Low,719
+CUST916471,Vikas Reddy,678,Accounts involving cash payment of processing charge/EMIs (where electronic payment from Savings bank account not established),HL - retail,ALERT142,2025-07-18,2025-07-19,Low,727
+CUST197430,Everest Realty Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT143,2025-04-25,2025-04-26,Low,722
+CUST374112,Sneha Nair,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,HL - retail,ALERT144,2025-06-06,2025-06-07,Medium,698
+CUST197430,Everest Realty Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT145,2025-05-02,2025-05-03,Low,732
+CUST374112,Sneha Nair,678,Accounts involving cash payment of processing charge/EMIs (where electronic payment from Savings bank account not established),HL - retail,ALERT146,2025-05-30,2025-05-31,Medium,675
+CUST128927,Amit Sharma,736,Accounts where NACH/PDC bounces for 3 or more occasions in previous 12 months and EMIs are serviced in cash,HL - retail,ALERT147,2025-08-29,2025-08-30,Low,747
+CUST128927,Amit Sharma,812,Abrupt fall in market price (per square feet rate) of property or guidance value in an area,HL - retail,ALERT148,2025-05-30,2025-05-31,Medium,678
+CUST731486,Kiran Das,110,Disbursement of loan done without meeting all pre-disbursement conditions,HL - retail,ALERT149,2025-04-18,2025-04-19,Medium,676
+CUST329832,Omkar Housing Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT150,2025-08-22,2025-08-23,Low,734
+CUST722919,Ravi Iyer,412,Company is unable to contact the borrower during credit monitoring,HL - retail,ALERT151,2025-06-27,2025-06-28,Low,716
+CUST329832,Omkar Housing Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT152,2025-04-18,2025-04-19,High,572
+CUST722919,Ravi Iyer,678,Accounts involving cash payment of processing charge/EMIs (where electronic payment from Savings bank account not established),HL - retail,ALERT153,2025-08-15,2025-08-16,Low,745
+CUST417187,Meera Joshi,812,Abrupt fall in market price (per square feet rate) of property or guidance value in an area,HL - retail,ALERT154,2025-08-29,2025-08-30,Low,723
+CUST197430,Everest Realty Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT155,2025-05-16,2025-05-17,Low,739
+CUST197430,Everest Realty Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT156,2025-08-29,2025-08-30,Medium,696
+CUST128927,Amit Sharma,812,Abrupt fall in market price (per square feet rate) of property or guidance value in an area,HL - retail,ALERT157,2025-08-22,2025-08-23,Low,735
+CUST329832,Omkar Housing Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT158,2025-07-04,2025-07-05,Low,728
+CUST157781,Suresh Rao,812,Abrupt fall in market price (per square feet rate) of property or guidance value in an area,HL - retail,ALERT159,2025-07-18,2025-07-19,Low,749
+CUST329832,Omkar Housing Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT160,2025-06-13,2025-06-14,Medium,655
+CUST320277,Silverline Infra Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT161,2025-06-06,2025-06-07,Medium,662
+CUST128927,Amit Sharma,342,Construction of the house not proceeding as per the disbursement schedule,HL - retail,ALERT162,2025-07-25,2025-07-26,Medium,660
+CUST329832,Omkar Housing Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT163,2025-04-18,2025-04-19,High,475
+CUST128927,Amit Sharma,736,Accounts where NACH/PDC bounces for 3 or more occasions in previous 12 months and EMIs are serviced in cash,HL - retail,ALERT164,2025-08-15,2025-08-16,Low,731
+CUST157781,Suresh Rao,812,Abrupt fall in market price (per square feet rate) of property or guidance value in an area,HL - retail,ALERT165,2025-05-23,2025-05-24,Low,738
+CUST644813,BluePeak Constructions Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT166,2025-06-27,2025-06-28,Medium,662
+CUST320277,Silverline Infra Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT167,2025-07-18,2025-07-19,High,422
+CUST722919,Ravi Iyer,678,Accounts involving cash payment of processing charge/EMIs (where electronic payment from Savings bank account not established),HL - retail,ALERT168,2025-07-18,2025-07-19,Low,717
+CUST859940,Neha Patel,523,Construction of house not commenced even after 18 months in case of composite loans,HL - retail,ALERT169,2025-07-18,2025-07-19,Low,701
+CUST157781,Suresh Rao,110,Disbursement of loan done without meeting all pre-disbursement conditions,HL - retail,ALERT170,2025-08-15,2025-08-16,Low,712
+CUST310917,NovaBuild Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT171,2025-08-29,2025-08-30,High,539
+CUST940996,Arjun Verma,523,Construction of house not commenced even after 18 months in case of composite loans,HL - retail,ALERT172,2025-04-25,2025-04-26,Low,740
+CUST677836,Pooja Mehta,678,Accounts involving cash payment of processing charge/EMIs (where electronic payment from Savings bank account not established),HL - retail,ALERT173,2025-07-11,2025-07-12,High,405
+CUST722919,Ravi Iyer,523,Construction of house not commenced even after 18 months in case of composite loans,HL - retail,ALERT174,2025-05-09,2025-05-10,Medium,667
+CUST417187,Meera Joshi,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,HL - retail,ALERT175,2025-05-16,2025-05-17,Low,717
+CUST722919,Ravi Iyer,678,Accounts involving cash payment of processing charge/EMIs (where electronic payment from Savings bank account not established),HL - retail,ALERT176,2025-05-23,2025-05-24,Low,702
+CUST329832,Omkar Housing Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT177,2025-08-08,2025-08-09,Low,702
+CUST329832,Omkar Housing Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT178,2025-05-23,2025-05-24,Low,701
+CUST417187,Meera Joshi,342,Construction of the house not proceeding as per the disbursement schedule,HL - retail,ALERT179,2025-07-25,2025-07-26,Low,727
+CUST644813,BluePeak Constructions Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT180,2025-05-16,2025-05-17,Medium,690
+CUST644813,BluePeak Constructions Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT181,2025-06-13,2025-06-14,High,609
+CUST157781,Suresh Rao,523,Construction of house not commenced even after 18 months in case of composite loans,HL - retail,ALERT182,2025-08-15,2025-08-16,Low,739
+CUST916471,Vikas Reddy,523,Construction of house not commenced even after 18 months in case of composite loans,HL - retail,ALERT183,2025-08-15,2025-08-16,High,516
+CUST677836,Pooja Mehta,110,Disbursement of loan done without meeting all pre-disbursement conditions,HL - retail,ALERT184,2025-06-27,2025-06-28,High,595
+CUST722919,Ravi Iyer,523,Construction of house not commenced even after 18 months in case of composite loans,HL - retail,ALERT185,2025-05-09,2025-05-10,Low,745
+CUST197430,Everest Realty Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT186,2025-07-18,2025-07-19,Low,726
+CUST197430,Everest Realty Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT187,2025-08-29,2025-08-30,Low,720
+CUST916471,Vikas Reddy,812,Abrupt fall in market price (per square feet rate) of property or guidance value in an area,HL - retail,ALERT188,2025-04-25,2025-04-26,Low,747
+CUST374112,Sneha Nair,523,Construction of house not commenced even after 18 months in case of composite loans,HL - retail,ALERT189,2025-08-15,2025-08-16,Low,745
+CUST128927,Amit Sharma,678,Accounts involving cash payment of processing charge/EMIs (where electronic payment from Savings bank account not established),HL - retail,ALERT190,2025-07-11,2025-07-12,Medium,691
+CUST731486,Kiran Das,736,Accounts where NACH/PDC bounces for 3 or more occasions in previous 12 months and EMIs are serviced in cash,HL - retail,ALERT191,2025-04-18,2025-04-19,Low,731
+CUST329832,Omkar Housing Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT192,2025-06-13,2025-06-14,Low,750
+CUST329832,Omkar Housing Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT193,2025-05-16,2025-05-17,Low,726
+CUST644813,BluePeak Constructions Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT194,2025-06-20,2025-06-21,High,575
+CUST157781,Suresh Rao,110,Disbursement of loan done without meeting all pre-disbursement conditions,HL - retail,ALERT195,2025-08-15,2025-08-16,Medium,694
+CUST329832,Omkar Housing Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT196,2025-07-04,2025-07-05,Low,741
+CUST310917,NovaBuild Pvt Ltd,950,Not routing of sale proceeds/receipts through the designated escrow accounts,HL - corporate,ALERT197,2025-08-08,2025-08-09,Low,735
+CUST128927,Amit Sharma,736,Accounts where NACH/PDC bounces for 3 or more occasions in previous 12 months and EMIs are serviced in cash,HL - retail,ALERT198,2025-07-11,2025-07-12,Low,733
+CUST859940,Neha Patel,736,Accounts where NACH/PDC bounces for 3 or more occasions in previous 12 months and EMIs are serviced in cash,HL - retail,ALERT199,2025-07-04,2025-07-05,Low,718
+CUST329832,Omkar Housing Pvt Ltd,901,Material discrepancies/red flags/inconsistencies observed in the annual report of the borrowing entities,HL - corporate,ALERT200,2025-07-25,2025-07-26,High,567

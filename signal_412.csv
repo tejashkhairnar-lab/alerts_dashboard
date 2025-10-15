@@ -1,0 +1,12 @@
+Alert Id,Borrower Id,Borrower Name,Signal Code,Signal Name,Date Of Event,Date Of Alert,Product Type,Cibil Score,Alert Severity,No Of Attempts Email,No Of Attempts Phone,Latest Completed Month Year,Overdue Amount,Max Dpd
+ALERT023,CUST157781,Suresh Rao,412,Company is unable to contact the borrower during credit monitoring,2025-08-29,2025-08-30,HL - retail,661,Medium,10,10,08-2025,68158.13,66
+ALERT032,CUST859940,Neha Patel,412,Company is unable to contact the borrower during credit monitoring,2025-08-15,2025-08-16,HL - retail,738,Low,7,0,08-2025,83689.33,59
+ALERT034,CUST940996,Arjun Verma,412,Company is unable to contact the borrower during credit monitoring,2025-07-25,2025-07-26,HL - retail,741,Low,7,10,07-2025,10969.31,77
+ALERT048,CUST916471,Vikas Reddy,412,Company is unable to contact the borrower during credit monitoring,2025-05-16,2025-05-17,HL - retail,670,Medium,5,9,05-2025,14202.23,96
+ALERT060,CUST417187,Meera Joshi,412,Company is unable to contact the borrower during credit monitoring,2025-08-22,2025-08-23,HL - retail,658,Medium,5,11,08-2025,71404.01,86
+ALERT071,CUST417187,Meera Joshi,412,Company is unable to contact the borrower during credit monitoring,2025-07-11,2025-07-12,HL - retail,738,Low,4,12,07-2025,9707.54,37
+ALERT075,CUST859940,Neha Patel,412,Company is unable to contact the borrower during credit monitoring,2025-07-11,2025-07-12,HL - retail,451,High,9,12,07-2025,99612.49,41
+ALERT092,CUST859940,Neha Patel,412,Company is unable to contact the borrower during credit monitoring,2025-05-23,2025-05-24,HL - retail,747,Low,9,12,05-2025,82722.63,69
+ALERT117,CUST417187,Meera Joshi,412,Company is unable to contact the borrower during credit monitoring,2025-05-09,2025-05-10,HL - retail,690,Medium,0,6,05-2025,81598.77,32
+ALERT131,CUST940996,Arjun Verma,412,Company is unable to contact the borrower during credit monitoring,2025-05-02,2025-05-03,HL - retail,712,Low,9,12,05-2025,86013.14,46
+ALERT151,CUST722919,Ravi Iyer,412,Company is unable to contact the borrower during credit monitoring,2025-06-27,2025-06-28,HL - retail,716,Low,2,8,06-2025,49618.68,94

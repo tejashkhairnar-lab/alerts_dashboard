@@ -1,0 +1,60 @@
+Borrower Name,Borrower Id,Signal Code,Signal Name,Date Of Event,Date Of Alert,Alert Severity,Alert Id
+BluePeak Constructions Pvt Ltd,CUST644813,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-08-29,2025-08-30,Medium,ALERT002
+Meera Joshi,CUST417187,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,2025-06-27,2025-06-28,Low,ALERT013
+Omkar Housing Pvt Ltd,CUST329832,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-07-04,2025-07-05,Low,ALERT015
+Suresh Rao,CUST157781,412,Company is unable to contact the borrower during credit monitoring,2025-08-29,2025-08-30,Medium,ALERT023
+Omkar Housing Pvt Ltd,CUST329832,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-06-20,2025-06-21,Low,ALERT029
+Neha Patel,CUST859940,412,Company is unable to contact the borrower during credit monitoring,2025-08-15,2025-08-16,Low,ALERT032
+BluePeak Constructions Pvt Ltd,CUST644813,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-08-01,2025-08-02,Medium,ALERT033
+Arjun Verma,CUST940996,412,Company is unable to contact the borrower during credit monitoring,2025-07-25,2025-07-26,Low,ALERT034
+Everest Realty Pvt Ltd,CUST197430,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-05-16,2025-05-17,Low,ALERT035
+Everest Realty Pvt Ltd,CUST197430,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-08-22,2025-08-23,Low,ALERT038
+Suresh Rao,CUST157781,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,2025-08-22,2025-08-23,High,ALERT040
+BluePeak Constructions Pvt Ltd,CUST644813,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-06-20,2025-06-21,Low,ALERT044
+Neha Patel,CUST859940,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,2025-08-08,2025-08-09,Medium,ALERT046
+Suresh Rao,CUST157781,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,2025-04-18,2025-04-19,Low,ALERT047
+Vikas Reddy,CUST916471,412,Company is unable to contact the borrower during credit monitoring,2025-05-16,2025-05-17,Medium,ALERT048
+Everest Realty Pvt Ltd,CUST197430,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-08-08,2025-08-09,Low,ALERT050
+Everest Realty Pvt Ltd,CUST197430,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-07-18,2025-07-19,Medium,ALERT053
+NovaBuild Pvt Ltd,CUST310917,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-08-15,2025-08-16,Low,ALERT056
+Meera Joshi,CUST417187,412,Company is unable to contact the borrower during credit monitoring,2025-08-22,2025-08-23,Medium,ALERT060
+Vikas Reddy,CUST916471,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,2025-08-22,2025-08-23,Low,ALERT061
+BluePeak Constructions Pvt Ltd,CUST644813,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-06-06,2025-06-07,Low,ALERT066
+Everest Realty Pvt Ltd,CUST197430,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-06-06,2025-06-07,Low,ALERT067
+Meera Joshi,CUST417187,412,Company is unable to contact the borrower during credit monitoring,2025-07-11,2025-07-12,Low,ALERT071
+Neha Patel,CUST859940,412,Company is unable to contact the borrower during credit monitoring,2025-07-11,2025-07-12,High,ALERT075
+Arjun Verma,CUST940996,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,2025-05-09,2025-05-10,Medium,ALERT082
+Omkar Housing Pvt Ltd,CUST329832,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-07-11,2025-07-12,Medium,ALERT085
+BluePeak Constructions Pvt Ltd,CUST644813,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-07-11,2025-07-12,Low,ALERT088
+Neha Patel,CUST859940,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,2025-08-01,2025-08-02,Low,ALERT089
+Neha Patel,CUST859940,412,Company is unable to contact the borrower during credit monitoring,2025-05-23,2025-05-24,Low,ALERT092
+Silverline Infra Pvt Ltd,CUST320277,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-05-30,2025-05-31,Low,ALERT093
+Silverline Infra Pvt Ltd,CUST320277,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-08-15,2025-08-16,Medium,ALERT097
+Arjun Verma,CUST940996,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,2025-06-13,2025-06-14,Low,ALERT101
+Everest Realty Pvt Ltd,CUST197430,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-08-15,2025-08-16,Low,ALERT105
+Ravi Iyer,CUST722919,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,2025-08-08,2025-08-09,Medium,ALERT115
+Meera Joshi,CUST417187,412,Company is unable to contact the borrower during credit monitoring,2025-05-09,2025-05-10,Medium,ALERT117
+Everest Realty Pvt Ltd,CUST197430,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-05-30,2025-05-31,High,ALERT119
+Neha Patel,CUST859940,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,2025-08-22,2025-08-23,Medium,ALERT120
+Neha Patel,CUST859940,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,2025-05-30,2025-05-31,Low,ALERT122
+NovaBuild Pvt Ltd,CUST310917,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-07-04,2025-07-05,Medium,ALERT123
+Arjun Verma,CUST940996,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,2025-07-11,2025-07-12,Medium,ALERT130
+Arjun Verma,CUST940996,412,Company is unable to contact the borrower during credit monitoring,2025-05-02,2025-05-03,Low,ALERT131
+Suresh Rao,CUST157781,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,2025-08-15,2025-08-16,Low,ALERT134
+Silverline Infra Pvt Ltd,CUST320277,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-06-06,2025-06-07,Low,ALERT135
+BluePeak Constructions Pvt Ltd,CUST644813,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-06-06,2025-06-07,Low,ALERT141
+Everest Realty Pvt Ltd,CUST197430,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-04-25,2025-04-26,Low,ALERT143
+Sneha Nair,CUST374112,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,2025-06-06,2025-06-07,Medium,ALERT144
+Everest Realty Pvt Ltd,CUST197430,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-05-02,2025-05-03,Low,ALERT145
+Omkar Housing Pvt Ltd,CUST329832,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-08-22,2025-08-23,Low,ALERT150
+Ravi Iyer,CUST722919,412,Company is unable to contact the borrower during credit monitoring,2025-06-27,2025-06-28,Low,ALERT151
+Omkar Housing Pvt Ltd,CUST329832,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-04-18,2025-04-19,High,ALERT152
+Omkar Housing Pvt Ltd,CUST329832,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-07-04,2025-07-05,Low,ALERT158
+Omkar Housing Pvt Ltd,CUST329832,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-04-18,2025-04-19,High,ALERT163
+Silverline Infra Pvt Ltd,CUST320277,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-07-18,2025-07-19,High,ALERT167
+Meera Joshi,CUST417187,601,Account in SMA 2 (>60 days overdue status) for more than 3 consecutive months,2025-05-16,2025-05-17,Low,ALERT175
+BluePeak Constructions Pvt Ltd,CUST644813,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-05-16,2025-05-17,Medium,ALERT180
+BluePeak Constructions Pvt Ltd,CUST644813,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-06-13,2025-06-14,High,ALERT181
+Everest Realty Pvt Ltd,CUST197430,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-07-18,2025-07-19,Low,ALERT186
+Omkar Housing Pvt Ltd,CUST329832,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-07-04,2025-07-05,Low,ALERT196
+NovaBuild Pvt Ltd,CUST310917,950,Not routing of sale proceeds/receipts through the designated escrow accounts,2025-08-08,2025-08-09,Low,ALERT197
