@@ -1,0 +1,75 @@
+Borrower Name,Borrower Id,Bureau ID,Report Date,Report Extract Date,DPD,Product Type,Institute,Cibil Score,Loan Type,Assessment period
+Amit Sharma,CUST128927,CUST128927,2025-05-29,2025-07-02,0,home loan,External Bank,350,Secured,34
+Amit Sharma,CUST128927,CUST128927,2025-05-31,2025-07-02,84,personal loan,Internal,350,Unsecured,32
+Amit Sharma,CUST128927,CUST128927,2025-06-10,2025-07-02,0,home loan,External NBFC,350,Secured,22
+Amit Sharma,CUST128927,CUST128927,2025-08-27,2025-09-30,0,home loan,External Bank,336,Secured,34
+Amit Sharma,CUST128927,CUST128927,2025-08-29,2025-09-30,84,personal loan,Internal,336,Unsecured,32
+Amit Sharma,CUST128927,CUST128927,2025-09-08,2025-09-30,0,home loan,External NBFC,336,Secured,22
+Suresh Rao,CUST157781,CUST157781,2025-05-13,2025-07-02,3,personal loan,Internal,530,Unsecured,50
+Suresh Rao,CUST157781,CUST157781,2025-05-26,2025-07-02,0,home loan,Internal,526,Secured,37
+Suresh Rao,CUST157781,CUST157781,2025-06-03,2025-07-02,38,personal loan,Internal,523,Unsecured,29
+Suresh Rao,CUST157781,CUST157781,2025-06-15,2025-07-02,45,home loan,Internal,528,Secured,17
+Suresh Rao,CUST157781,CUST157781,2025-08-11,2025-09-30,3,personal loan,Internal,519,Unsecured,50
+Suresh Rao,CUST157781,CUST157781,2025-08-24,2025-09-30,0,home loan,Internal,519,Secured,37
+Suresh Rao,CUST157781,CUST157781,2025-09-01,2025-09-30,38,personal loan,Internal,519,Unsecured,29
+Suresh Rao,CUST157781,CUST157781,2025-09-13,2025-09-30,45,home loan,Internal,519,Secured,17
+Sneha Nair,CUST374112,CUST374112,2025-05-18,2025-07-02,19,personal loan,Internal,627,Unsecured,45
+Sneha Nair,CUST374112,CUST374112,2025-06-17,2025-07-02,74,gold loan,External Bank,629,Secured,15
+Sneha Nair,CUST374112,CUST374112,2025-06-19,2025-07-02,0,home loan,External NBFC,632,Secured,13
+Sneha Nair,CUST374112,CUST374112,2025-08-16,2025-09-30,19,personal loan,Internal,626,Unsecured,45
+Sneha Nair,CUST374112,CUST374112,2025-09-15,2025-09-30,74,gold loan,External Bank,626,Secured,15
+Sneha Nair,CUST374112,CUST374112,2025-09-17,2025-09-30,0,home loan,External NBFC,626,Secured,13
+Meera Joshi,CUST417187,CUST417187,2025-06-05,2025-07-02,0,personal loan,External NBFC,533,Unsecured,27
+Meera Joshi,CUST417187,CUST417187,2025-06-06,2025-07-02,42,personal loan,Internal,537,Unsecured,26
+Meera Joshi,CUST417187,CUST417187,2025-06-11,2025-07-02,66,home loan,Internal,541,Secured,21
+Meera Joshi,CUST417187,CUST417187,2025-06-13,2025-07-02,0,home loan,External NBFC,541,Secured,19
+Meera Joshi,CUST417187,CUST417187,2025-06-14,2025-07-02,0,gold loan,Internal,538,Secured,18
+Meera Joshi,CUST417187,CUST417187,2025-09-03,2025-09-30,0,personal loan,External NBFC,534,Unsecured,27
+Meera Joshi,CUST417187,CUST417187,2025-09-04,2025-09-30,42,personal loan,Internal,534,Unsecured,26
+Meera Joshi,CUST417187,CUST417187,2025-09-09,2025-09-30,66,home loan,Internal,534,Secured,21
+Meera Joshi,CUST417187,CUST417187,2025-09-11,2025-09-30,0,home loan,External NBFC,534,Secured,19
+Meera Joshi,CUST417187,CUST417187,2025-09-12,2025-09-30,0,gold loan,Internal,534,Secured,18
+Pooja Mehta,CUST677836,CUST677836,2025-05-23,2025-07-02,0,gold loan,Internal,717,Secured,40
+Pooja Mehta,CUST677836,CUST677836,2025-05-25,2025-07-02,87,personal loan,Internal,716,Unsecured,38
+Pooja Mehta,CUST677836,CUST677836,2025-06-10,2025-07-02,0,personal loan,External Bank,720,Unsecured,22
+Pooja Mehta,CUST677836,CUST677836,2025-06-11,2025-07-02,0,gold loan,External Bank,720,Secured,21
+Pooja Mehta,CUST677836,CUST677836,2025-08-21,2025-09-30,0,gold loan,Internal,716,Secured,40
+Pooja Mehta,CUST677836,CUST677836,2025-08-23,2025-09-30,87,personal loan,Internal,716,Unsecured,38
+Pooja Mehta,CUST677836,CUST677836,2025-09-08,2025-09-30,0,personal loan,External Bank,716,Unsecured,22
+Pooja Mehta,CUST677836,CUST677836,2025-09-09,2025-09-30,0,gold loan,External Bank,716,Secured,21
+Ravi Iyer,CUST722919,CUST722919,2025-05-13,2025-07-02,0,gold loan,External Bank,694,Secured,50
+Ravi Iyer,CUST722919,CUST722919,2025-06-04,2025-07-02,83,gold loan,External Bank,697,Secured,28
+Ravi Iyer,CUST722919,CUST722919,2025-06-11,2025-07-02,0,gold loan,Internal,696,Secured,21
+Ravi Iyer,CUST722919,CUST722919,2025-08-11,2025-09-30,0,gold loan,External Bank,695,Secured,50
+Ravi Iyer,CUST722919,CUST722919,2025-09-02,2025-09-30,83,gold loan,External Bank,695,Secured,28
+Ravi Iyer,CUST722919,CUST722919,2025-09-09,2025-09-30,0,gold loan,Internal,695,Secured,21
+Kiran Das,CUST731486,CUST731486,2025-05-18,2025-07-02,39,home loan,Internal,693,Secured,45
+Kiran Das,CUST731486,CUST731486,2025-05-31,2025-07-02,0,personal loan,External NBFC,699,Unsecured,32
+Kiran Das,CUST731486,CUST731486,2025-06-02,2025-07-02,5,gold loan,External NBFC,703,Secured,30
+Kiran Das,CUST731486,CUST731486,2025-08-16,2025-09-30,39,home loan,Internal,695,Secured,45
+Kiran Das,CUST731486,CUST731486,2025-08-29,2025-09-30,0,personal loan,External NBFC,695,Unsecured,32
+Kiran Das,CUST731486,CUST731486,2025-08-31,2025-09-30,5,gold loan,External NBFC,695,Secured,30
+Neha Patel,CUST859940,CUST859940,2025-05-18,2025-07-02,36,home loan,External Bank,505,Secured,45
+Neha Patel,CUST859940,CUST859940,2025-05-25,2025-07-02,64,home loan,External NBFC,497,Secured,38
+Neha Patel,CUST859940,CUST859940,2025-05-29,2025-07-02,36,home loan,External Bank,493,Secured,34
+Neha Patel,CUST859940,CUST859940,2025-06-12,2025-07-02,24,personal loan,External NBFC,507,Unsecured,20
+Neha Patel,CUST859940,CUST859940,2025-08-16,2025-09-30,36,home loan,External Bank,495,Secured,45
+Neha Patel,CUST859940,CUST859940,2025-08-23,2025-09-30,64,home loan,External NBFC,495,Secured,38
+Neha Patel,CUST859940,CUST859940,2025-08-27,2025-09-30,36,home loan,External Bank,495,Secured,34
+Neha Patel,CUST859940,CUST859940,2025-09-10,2025-09-30,24,personal loan,External NBFC,495,Unsecured,20
+Vikas Reddy,CUST916471,CUST916471,2025-05-22,2025-07-02,69,gold loan,Internal,407,Secured,41
+Vikas Reddy,CUST916471,CUST916471,2025-05-23,2025-07-02,32,personal loan,External NBFC,400,Unsecured,40
+Vikas Reddy,CUST916471,CUST916471,2025-06-04,2025-07-02,33,home loan,Internal,396,Secured,28
+Vikas Reddy,CUST916471,CUST916471,2025-06-13,2025-07-02,12,home loan,External NBFC,407,Secured,19
+Vikas Reddy,CUST916471,CUST916471,2025-08-20,2025-09-30,69,gold loan,Internal,399,Secured,41
+Vikas Reddy,CUST916471,CUST916471,2025-08-21,2025-09-30,32,personal loan,External NBFC,399,Unsecured,40
+Vikas Reddy,CUST916471,CUST916471,2025-09-02,2025-09-30,33,home loan,Internal,399,Secured,28
+Vikas Reddy,CUST916471,CUST916471,2025-09-11,2025-09-30,12,home loan,External NBFC,399,Secured,19
+Arjun Verma,CUST940996,CUST940996,2025-05-17,2025-07-02,20,personal loan,Internal,454,Unsecured,46
+Arjun Verma,CUST940996,CUST940996,2025-05-18,2025-07-02,0,personal loan,Internal,450,Unsecured,45
+Arjun Verma,CUST940996,CUST940996,2025-06-02,2025-07-02,0,home loan,Internal,457,Secured,30
+Arjun Verma,CUST940996,CUST940996,2025-06-12,2025-07-02,3,home loan,External NBFC,456,Secured,20
+Arjun Verma,CUST940996,CUST940996,2025-08-15,2025-09-30,20,personal loan,Internal,448,Unsecured,46
+Arjun Verma,CUST940996,CUST940996,2025-08-16,2025-09-30,0,personal loan,Internal,448,Unsecured,45
+Arjun Verma,CUST940996,CUST940996,2025-08-31,2025-09-30,0,home loan,Internal,448,Secured,30
+Arjun Verma,CUST940996,CUST940996,2025-09-10,2025-09-30,3,home loan,External NBFC,448,Secured,20
