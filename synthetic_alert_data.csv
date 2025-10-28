@@ -1,0 +1,101 @@
+borrower_id,signal_code,alert_id,signal_name,date_of_alert,date_of_event,alert_risk,case_type
+B006,21003,1,Overdraft,2025-08-23,2025-08-22,green,low
+B018,21001,2,Late Payment,2025-09-20,2025-09-19,red,high
+B014,21005,3,Cheque Bounce,2025-09-06,2025-09-05,amber,medium
+B007,21003,4,Overdraft,2025-09-20,2025-09-19,red,high
+B001,22002,5,Negative Balance,2025-09-06,2025-09-05,red,high
+B011,21001,6,Late Payment,2025-08-30,2025-08-29,amber,medium
+B011,21006,7,Multiple Inquiries,2025-10-11,2025-10-10,red,high
+B019,21004,8,High Credit Utilization,2025-08-09,2025-08-08,red,high
+B013,22001,9,High Risk Area,2025-09-20,2025-09-19,red,high
+B013,21008,10,Payment Delay,2025-10-04,2025-10-03,red,high
+B009,21007,11,Loan Default,2025-08-09,2025-08-08,green,low
+B004,21008,12,Payment Delay,2025-08-23,2025-08-22,green,low
+B017,22002,13,Negative Balance,2025-08-02,2025-08-01,green,low
+B015,21004,14,High Credit Utilization,2025-10-11,2025-10-10,green,low
+B014,22002,15,Negative Balance,2025-07-26,2025-07-25,red,high
+B010,22002,16,Negative Balance,2025-07-26,2025-07-25,amber,medium
+B015,22002,17,Negative Balance,2025-10-11,2025-10-10,amber,medium
+B019,21002,18,Missed EMI,2025-08-16,2025-08-15,red,high
+B017,21007,19,Loan Default,2025-10-11,2025-10-10,green,low
+B003,22001,20,High Risk Area,2025-07-26,2025-07-25,red,high
+B003,21003,21,Overdraft,2025-09-27,2025-09-26,amber,medium
+B008,21005,22,Cheque Bounce,2025-09-06,2025-09-05,amber,medium
+B001,22002,23,Negative Balance,2025-07-26,2025-07-25,red,high
+B016,21007,24,Loan Default,2025-09-06,2025-09-05,amber,medium
+B004,21005,25,Cheque Bounce,2025-08-16,2025-08-15,red,high
+B008,21005,26,Cheque Bounce,2025-08-23,2025-08-22,amber,medium
+B016,22001,27,High Risk Area,2025-08-30,2025-08-29,green,low
+B017,21005,28,Cheque Bounce,2025-10-11,2025-10-10,red,high
+B005,21006,29,Multiple Inquiries,2025-07-19,2025-07-18,amber,medium
+B014,21005,30,Cheque Bounce,2025-08-30,2025-08-29,green,low
+B006,21005,31,Cheque Bounce,2025-10-04,2025-10-03,red,high
+B020,21001,32,Late Payment,2025-08-30,2025-08-29,amber,medium
+B016,21007,33,Loan Default,2025-09-13,2025-09-12,amber,medium
+B006,21003,34,Overdraft,2025-08-02,2025-08-01,green,low
+B009,21005,35,Cheque Bounce,2025-09-13,2025-09-12,green,low
+B006,21007,36,Loan Default,2025-08-09,2025-08-08,amber,medium
+B019,21007,37,Loan Default,2025-10-04,2025-10-03,red,high
+B003,21008,38,Payment Delay,2025-08-09,2025-08-08,green,low
+B003,21002,39,Missed EMI,2025-07-26,2025-07-25,green,low
+B002,22001,40,High Risk Area,2025-10-04,2025-10-03,green,low
+B006,21008,41,Payment Delay,2025-10-04,2025-10-03,amber,medium
+B003,21004,42,High Credit Utilization,2025-08-30,2025-08-29,amber,medium
+B009,21002,43,Missed EMI,2025-07-19,2025-07-18,green,low
+B004,22001,44,High Risk Area,2025-08-09,2025-08-08,green,low
+B014,21003,45,Overdraft,2025-07-26,2025-07-25,red,high
+B016,21007,46,Loan Default,2025-07-26,2025-07-25,red,high
+B013,21004,47,High Credit Utilization,2025-09-20,2025-09-19,amber,medium
+B006,21008,48,Payment Delay,2025-08-16,2025-08-15,amber,medium
+B009,22002,49,Negative Balance,2025-08-23,2025-08-22,green,low
+B001,21008,50,Payment Delay,2025-08-23,2025-08-22,red,high
+B009,21005,51,Cheque Bounce,2025-09-27,2025-09-26,red,high
+B002,21007,52,Loan Default,2025-10-04,2025-10-03,red,high
+B002,21004,53,High Credit Utilization,2025-08-09,2025-08-08,amber,medium
+B003,21005,54,Cheque Bounce,2025-08-23,2025-08-22,red,high
+B003,22001,55,High Risk Area,2025-10-11,2025-10-10,red,high
+B009,21004,56,High Credit Utilization,2025-09-27,2025-09-26,amber,medium
+B004,22001,57,High Risk Area,2025-09-13,2025-09-12,red,high
+B011,21001,58,Late Payment,2025-10-11,2025-10-10,green,low
+B012,21004,59,High Credit Utilization,2025-09-13,2025-09-12,red,high
+B003,21001,60,Late Payment,2025-07-19,2025-07-18,amber,medium
+B003,21006,61,Multiple Inquiries,2025-08-02,2025-08-01,red,high
+B015,22002,62,Negative Balance,2025-09-27,2025-09-26,green,low
+B020,21002,63,Missed EMI,2025-07-26,2025-07-25,green,low
+B019,21007,64,Loan Default,2025-08-23,2025-08-22,green,low
+B005,21002,65,Missed EMI,2025-08-02,2025-08-01,green,low
+B003,21003,66,Overdraft,2025-08-23,2025-08-22,red,high
+B014,21004,67,High Credit Utilization,2025-07-19,2025-07-18,green,low
+B017,21001,68,Late Payment,2025-07-26,2025-07-25,red,high
+B007,21006,69,Multiple Inquiries,2025-07-19,2025-07-18,red,high
+B010,21004,70,High Credit Utilization,2025-09-20,2025-09-19,amber,medium
+B020,21003,71,Overdraft,2025-09-27,2025-09-26,green,low
+B020,22002,72,Negative Balance,2025-07-26,2025-07-25,red,high
+B007,21004,73,High Credit Utilization,2025-08-23,2025-08-22,green,low
+B002,22001,74,High Risk Area,2025-09-13,2025-09-12,green,low
+B013,21007,75,Loan Default,2025-08-23,2025-08-22,amber,medium
+B009,21001,76,Late Payment,2025-07-26,2025-07-25,green,low
+B012,21008,77,Payment Delay,2025-10-11,2025-10-10,amber,medium
+B010,22001,78,High Risk Area,2025-08-23,2025-08-22,red,high
+B011,21003,79,Overdraft,2025-09-13,2025-09-12,amber,medium
+B017,21001,80,Late Payment,2025-09-27,2025-09-26,green,low
+B001,22001,81,High Risk Area,2025-08-30,2025-08-29,amber,medium
+B016,22002,82,Negative Balance,2025-07-19,2025-07-18,green,low
+B018,22002,83,Negative Balance,2025-09-27,2025-09-26,green,low
+B002,21005,84,Cheque Bounce,2025-08-23,2025-08-22,red,high
+B010,21004,85,High Credit Utilization,2025-09-06,2025-09-05,green,low
+B001,21006,86,Multiple Inquiries,2025-08-09,2025-08-08,green,low
+B004,21007,87,Loan Default,2025-09-13,2025-09-12,amber,medium
+B019,21002,88,Missed EMI,2025-09-20,2025-09-19,amber,medium
+B001,21001,89,Late Payment,2025-08-23,2025-08-22,amber,medium
+B003,21001,90,Late Payment,2025-09-06,2025-09-05,amber,medium
+B014,22002,91,Negative Balance,2025-08-16,2025-08-15,red,high
+B017,22001,92,High Risk Area,2025-09-27,2025-09-26,amber,medium
+B007,22001,93,High Risk Area,2025-09-13,2025-09-12,amber,medium
+B003,21005,94,Cheque Bounce,2025-08-02,2025-08-01,red,high
+B014,21005,95,Cheque Bounce,2025-07-26,2025-07-25,red,high
+B013,21005,96,Cheque Bounce,2025-07-26,2025-07-25,amber,medium
+B002,22001,97,High Risk Area,2025-07-19,2025-07-18,red,high
+B005,21005,98,Cheque Bounce,2025-09-13,2025-09-12,amber,medium
+B018,21006,99,Multiple Inquiries,2025-09-13,2025-09-12,green,low
+B009,21005,100,Cheque Bounce,2025-08-16,2025-08-15,green,low
